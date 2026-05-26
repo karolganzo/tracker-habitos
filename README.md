@@ -1,17 +1,31 @@
-# tracker_habitos
+# Mis Hábitos
 
-A new Flutter project.
+Aplicación móvil para el seguimiento y construcción de hábitos, desarrollada
+como proyecto final de la materia de Programación Móvil.
 
-## Getting Started
+La app permite crear hábitos personalizados, programarlos por días de la semana
+y horario, marcarlos como completados cada día y visualizar el progreso mediante
+un calendario de cumplimiento y un sistema de rachas.
 
-This project is a starting point for a Flutter application.
+## Funcionalidades
 
-A few resources to get you started if this is your first Flutter project:
+- Crear, editar y eliminar hábitos
+- Programar hábitos por días de la semana y hora
+- Marcar hábitos como completados cada día
+- Calendario de cumplimiento con colores según el progreso
+- Sistema de rachas (días perfectos y días activos)
+- Estadísticas individuales por hábito
+- Color personalizable por hábito
+- Persistencia de datos en la nube en tiempo real
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Tecnologías utilizadas
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter (Dart)
+- Firebase / Cloud Firestore
+- Paquetes de pub.dev: table_calendar, flutter_launcher_icons
+
+## Autor
+
+Trejo Ganzo Christopher Karol
+Facultad de Estudios Superiores Aragón — UNAM
+Ingeniería en Computación
