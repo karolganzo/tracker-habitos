@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "832687037421",
+    "project_id": "mis-habitos-efd8d",
+    "storage_bucket": "mis-habitos-efd8d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832687037421:android:182541ee5bcc544eaf25e4",
+        "android_client_info": {
+          "package_name": "com.example.tracker_habitos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiHQb_P6VgBqD79fJeVQ3XQuMZHnR5dJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
